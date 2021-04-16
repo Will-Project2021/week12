@@ -1,0 +1,12 @@
+1 - Install XAMPP (https://www.apachefriends.org/pt_br/index.html)
+
+2 - On XAMPP control panel, activate 'Apache' and 'MySQL'
+
+3 - On MySQL control panel (phpMyAdmin)
+	3.1 - Create a new database named 'week12'
+	3.2 - Select the 'week12' database by clicking on it
+	3.3 - Import the week12.sql file (this will create the database tables sctructure)
+
+4 - File system
+	4.1 - Copy the 'week12' directory to 'xampp\htodcs' folder (the location may vary according to the XAMPP instalation - default is c:\xampp)
+
